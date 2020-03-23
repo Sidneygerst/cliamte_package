@@ -31,3 +31,6 @@ calc_rain <- function(rain_data){
   return(rain_matrix)
 
 }
+
+
+
